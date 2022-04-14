@@ -1,0 +1,13 @@
+const DEFAULT_PROFILE = 'PROD';
+const DEFAULT_ENDPOINT = 'https://api.enkig.app/graphql';
+const TEST_API_KEY = 'aad4a5de-e0e1-4315-b1b0-4fddb1997f18';
+const TEST_NODE_ID = '71a3ebb4-0a7d-4b93-b28d-402364326512';
+const TEST_APPLICATION_ID = 'c99b5962-a65d-4405-b22a-4bcfe4a726ac';
+
+export {
+  DEFAULT_PROFILE,
+  DEFAULT_ENDPOINT,
+  TEST_API_KEY,
+  TEST_NODE_ID,
+  TEST_APPLICATION_ID,
+};
